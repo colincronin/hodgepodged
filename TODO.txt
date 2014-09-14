@@ -1,0 +1,8 @@
+1. Integrate with YouTube API
+2. Integrate with Vimeo API
+3. Discuss and determine resource requirements
+4. Create LAMP stack server instance
+5. Develop search query keyword database
+6. Develop Fullscreen Option
+7. Develop Music switch
+8. Develop history database
