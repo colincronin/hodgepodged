@@ -6,3 +6,6 @@
 6. Develop Fullscreen Option
 7. Develop Music switch
 8. Develop history database
+9. Develop application shutdown/timeout feature
+10. Develop history display
+11. Develop upcoming queue display with reject feature
